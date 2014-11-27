@@ -1,4 +1,4 @@
-USB joystick support for Scratch
+USB joystick/gamepad support for Scratch
 ======================================
 
 1. Install Python 3.4 from https://www.python.org/ftp/python/3.4.2/python-3.4.2.msi
