@@ -1,0 +1,1 @@
+{"menus": {"axis": ["x", "y", "throttle", "rudder"], "button": ["1", "2", "3", "4", "L1", "R1", "L2", "R2", "9", "10", "S1", "S2"]}, "blockSpecs": [["w", "read joystick", "joystick_read_data"], ["b", "joystick button %m.button pressed?", "joystick_button_pressed", "1"], ["r", "joystick %m.axis axis", "joystick_axis", "x"]], "extensionName": "Joystick", "extensionPort": 5002}
